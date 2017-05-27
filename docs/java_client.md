@@ -4,7 +4,7 @@
 
 ## Overview 
 
-JRediSearch is a Java library abstracting the API of the RediSearch Redis module, that implements a powerful in-memory search engine inside Redis. 
+JRediSearch is a Java library, abstracted from the RediSearch Redis module API, that implements a powerful in-memory search engine inside Redis. 
  
 See full documentation at [https://github.com/RedisLabs/JRediSearch](https://github.com/RedisLabs/JRediSearch).
 
